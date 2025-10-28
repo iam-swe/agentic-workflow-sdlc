@@ -1,0 +1,27 @@
+{
+  "name": "agentic-workflow-sdlc",
+  "description": "This framework enables AI assisted software delivery.",
+  "version": "0.0.1",
+  "owner": {
+    "name": "Swetha A",
+    "email": "swethaashok02@gmail.com",
+    "url": "https://github.com/iam-swe/agentic-workflow-sdlc"
+  },
+  "homepage": "https://github.com/iam-swe/agentic-workflow-sdlc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iam-swe/agentic-workflow-sdlc.git"
+  },
+  "plugins": [
+    {
+      "name": "Orion",
+      "source": "./Orion",
+      "description": "Use AI for SDLC",
+      "version": "0.0.1",
+      "author": {
+        "name": "Swetha A",
+        "email": "swethaashok02@gmail.com"
+      }
+    }
+  ]
+}
